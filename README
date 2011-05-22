@@ -1,0 +1,3 @@
+mrbash - a map reduce implementation based on GNU parallel
+
+usage: mrbash.sh <infile> <mapper> <reducer>
